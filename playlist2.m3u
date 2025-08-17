@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon
-https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon Deutschland [Geo-blocked]
-https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
 #EXTINF:-1 tvg-id="ATV.at" group-title="Austria",ATV (576p)
 https://strm.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1 tvg-id="ATV2.at@HD" group-title="Austria",ATV2 HD
@@ -25,6 +22,24 @@ http://185.189.225.150:85/RTL/index.m3u8
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" group-title="Kids",RTL Super
 https://trn09.bozztv.com/gin-superrtl/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon Deutschland [Geo-blocked]
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (720p)
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (360p)
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="NBCSportsBoston.us",NBC Sports Boston (1080p)
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-id="NBCSportsBoston.us",NBC Sports Boston (360p)
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia (720p)
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia (360p)
+https://tvpass.org/live/nbc-sports-philadelphia/sd
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Germany" group-title="Kids",SpongeBob Schwammkopf
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e6bdc7a-78a0-4fdd-8f37-ea9905c5e422
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" group-title="Food",24Kitchen Serbia (720p)
@@ -77,3 +92,27 @@ https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East",CBS East (720p)
+https://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de",Deluxe Lounge (720p)
+http://jmp2.uk/sam-CHAJ0500413A.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="",WBTV HBO Boxing (1080p) [Geo-blocked]
+https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
+#EXTINF:-1 tvg-id="",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="",Origin Sports (1080p)
+https://raycom-originsports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BEKSports.us@West",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
