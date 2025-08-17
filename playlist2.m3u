@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-
 #EXTINF:-1 tvg-id="ATV.at" group-title="Austria",ATV (576p)
 https://strm.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1 tvg-id="ATV2.at@HD" group-title="Austria",ATV2 HD
