@@ -33,20 +33,12 @@ https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon Deutschland [Geo-blocked]
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
-#EXTINF:0, ESPN3 
-http://content.uplynk.com/channel/ext/d09b16c953aa40c98dd8c513526aca5a/a118926160.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (720p)
 https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (360p)
-https://tvpass.org/live/nbc-sports-bay-area/sd
 #EXTINF:-1 tvg-id="NBCSportsBoston.us",NBC Sports Boston (1080p)
 https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 tvg-id="NBCSportsBoston.us",NBC Sports Boston (360p)
-https://tvpass.org/live/nbc-sports-boston/sd
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia (720p)
 https://tvpass.org/live/nbc-sports-philadelphia/hd
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia (360p)
-https://tvpass.org/live/nbc-sports-philadelphia/sd
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Germany" group-title="Kids",SpongeBob Schwammkopf
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e6bdc7a-78a0-4fdd-8f37-ea9905c5e422
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" group-title="Food",24Kitchen Serbia (720p)
