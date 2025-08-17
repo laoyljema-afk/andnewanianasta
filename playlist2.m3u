@@ -17,16 +17,24 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychan
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
 #EXTINF:-1 tvg-id="RTL.de@Austria" group-title="Germany",RTL Austria (576p)
 http://185.189.225.150:85/RTL/index.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" http-referrer="https://www.2ix2.com/super-rtl-live/",Super RTL HD (720p)
+#EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
 #EXTINF:-1 tvg-id="RTL.de@HD" group-title="Germany",RTL HD
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" group-title="Kids",RTL Super
 https://trn09.bozztv.com/gin-superrtl/index.m3u8
+#EXTINF:-1 tvg-id="ntv.de@SD",n-tv (1080p)
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 tvg-id="Nitro.de@HD",Nitro HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon Deutschland [Geo-blocked]
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:0, ESPN3 
+http://content.uplynk.com/channel/ext/d09b16c953aa40c98dd8c513526aca5a/a118926160.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (720p)
 https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (360p)
